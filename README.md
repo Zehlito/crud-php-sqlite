@@ -6,6 +6,7 @@ Criar um Crud simples, totalmente desenvolvido em PHP, sem a utilização de fra
 A seguinte estrutura será utilizada para persistência dos dados, podendo ser alterada a qualquer momento para melhor funcionamento do sistema:
 
 ```sql
+
     tabela: users
         id      int not null auto_increment primary key
         name    varchar(100) not null
@@ -34,5 +35,4 @@ Este projeto conta com uma base sqlite com alguns registros já inseridos. Para 
 - Para utilizar o banco de dados contido na pasta `database/db.sqlite` é necessário que a sua instalação do php tenha a extensão do sqlite instalada e ativada
 - O Php possui um servidor embutido, você consegue dar start ao projeto abrindo o terminal de comando na pasta baixada e executando `php -S 0.0.0.0:7070` e em seguida abrir o navegador em `http://localhost:7070`
 
-##### Boa Sorte
-Use seu conhecimento, consulte a documentação e o google, caso ainda houver dúvidas, nos pergunte :D. Boa sorte!
+<img width="1153" height="433" alt="Captura de tela 2025-10-01 193031" src="https://github.com/user-attachments/assets/335eee18-fa17-43b1-ba19-036b5f8f647b" />
