@@ -1,0 +1,1 @@
+INSERT INTO colors(name) VALUES ('Azul'), ('Vermelho'), ('Amarelo'), ('Verde'), ('Rosa'), ('Roxo'), ('Preto'), ('Cinza')
